@@ -110,6 +110,7 @@ h2 {
   height: fit-content;
   vertical-align: middle;
   margin: 5px;
+  border-radius: 50%;
 }
 
 /* Skills */
